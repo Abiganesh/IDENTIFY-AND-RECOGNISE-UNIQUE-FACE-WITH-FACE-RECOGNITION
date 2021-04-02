@@ -1,4 +1,4 @@
-Your never give known image at start. You need to crearte empty folder for knownimages
+Your never give known image at start. You need to crearte empty folder for knownimages OR  its create it by own
 Once your video gets loading what ever face it finds as not matched and give id=0 and put in known faces dir so that later on if the same face came it tells the id=0, then if new face come then increase the id by 1 and put in knownface dir and keep doing this
 YOUR CAN VISUALIZE THE OUT BUT HERE I JUST UPLOADED CONSOLE OUTPUT ALONE
 
