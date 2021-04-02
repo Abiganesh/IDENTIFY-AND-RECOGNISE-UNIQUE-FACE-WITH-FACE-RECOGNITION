@@ -1,0 +1,4 @@
+This project works without pre labed known images.
+IMPORT TIME,PICKLE,OPENCV,FACE_RECOGNITION
+USE EITHER WEBCAM OR PRE RECORDED VIDEO FOR UNKNOWN DIR. Cv2.VideoCapture(0)=> webcame Cv2.VideoCapture("xyz.mp4")=>pre recorded video
+CHECK OUT OUTPUT EXPLANATION FOR MORE DETAIL ABOUT THIS PROJECT
